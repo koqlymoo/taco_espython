@@ -606,7 +606,7 @@ if __name__ == "__main__":
     print('[*]Info')
     print('    Creator:            github.com/koqlymoo')
     print('    Websites:           https://memoryhackers.org/members/lordtaco.273622/')
-    print('    Do not pay for this ESP its free.')
+    print('    Do not pay for this cheat its free.')
     while mem.is_running() and not InputSystem.is_button_down(g_exit_key):
         k32.Sleep(1)
         if Engine.is_in_game():
